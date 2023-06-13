@@ -1,0 +1,17 @@
+star: hd4308
+period: 15.56 days 
+
+settings:
+mutation rate = 0.35
+uniform rate = 0.5
+
+Solution found:
+gencount = 3242 of genmax = 90000
+equalcount = 1000 of equalmax = 1000
+
+fitness value = 27.723642462491423
+
+Results:
+amplitude = 2.78
+period = 15.63 days   with percent error= 0.44987146529563166
+phase = 35.98

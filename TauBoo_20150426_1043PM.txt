@@ -1,0 +1,17 @@
+star: TauBoo
+period: 3.3124 days 
+
+settings:
+mutation rate = 0.35
+uniform rate = 0.5
+
+Solution found:
+gencount = 1637 of genmax = 90000
+equalcount = 1000 of equalmax = 1000
+
+fitness value = 293.4080802176802
+
+Results:
+amplitude = 23.16
+period = 3.86 days   with percent error= 16.531819828523126
+phase = 45.39

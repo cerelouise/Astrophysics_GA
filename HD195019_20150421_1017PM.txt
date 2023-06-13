@@ -1,0 +1,17 @@
+star: HD195019
+period: 18.201 days 
+
+settings:
+mutation rate = 0.35
+uniform rate = 0.5
+
+Solution found:
+gencount = 1603 of genmax = 90000
+equalcount = 1000 of equalmax = 1000
+
+fitness value = 1647.4413189142965
+
+Results:
+amplitude = 49.95
+period = 18.2 days   with percent error= 0.005494203615192693
+phase = 33.28

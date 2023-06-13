@@ -1,0 +1,17 @@
+star: 51peg
+period: 4.230785 days 
+
+settings:
+mutation rate = 0.35
+uniform rate = 0.5
+
+Solution found:
+gencount = 3201 of genmax = 90000
+equalcount = 1000 of equalmax = 1000
+
+fitness value = 107.02325720111753
+
+Results:
+amplitude = 49.58
+period = 4.24 days   with percent error= 0.21780827907823713
+phase = 4.34
